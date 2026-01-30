@@ -20,10 +20,11 @@ It does NOT handle:
 
 ## Core KPIs
 
-- Average Cost per KM  
-- On-Time Delivery Rate (%)  
-- Average Delay Days per Vendor  
-- Average Customer Rating per Vendor  
-- Cost per Successful Delivery  
-- Vendor Risk Score (composite: high cost + high delay + low rating)
-Add Vendor Intelligence pain module skeleton
+Vendor Intelligence KPIs:
+
+1. On-Time Rate
+2. Average Delivery Cost
+3. Cost Efficiency (Cost per KM)
+4. Average Customer Rating
+5. Delivery Volume Share
+
